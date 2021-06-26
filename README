@@ -1,3 +1,10 @@
-I did not finish on time.
+Important! : The code needs flex-1.8.2 to run properly
 
-The biggest thing is that I only get null pointer exceptions. I think this means I messed up the symbol tables.
+Run using the makefile - see makefile for specifics
+This repository includes:
+  .java files - used as code for the parser
+  .class files - classes made from running the makefile; used in the code execution
+  .as files - test input used as grading criteria at each checkpoint
+  .txt files - mainly output from testing the .as files
+  proj3grammar.jflex - includes specifications for the tokens recognized by the parser
+  tokens.cup - includes the grammar rules for the language recognized by the compiler

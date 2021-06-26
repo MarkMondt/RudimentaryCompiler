@@ -1,0 +1,8 @@
+class x
+{
+	char y;
+	void y()
+	{
+	}
+}
+java.lang.NullPointerException

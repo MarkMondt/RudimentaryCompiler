@@ -1,0 +1,9 @@
+class x
+{
+	void main()
+	{
+		bool x;
+		x--;
+	}
+}
+java.lang.NullPointerException
